@@ -6,7 +6,7 @@ This mini framework is to support my PHP projects as a backbone.
 
 There is no explicit installation process for this project.
 
-You can always chance models and migrate to the DB with your credentials with the help of Eloquent ORM.
+You can always change models and migrate to the DB with your credentials with the help of Eloquent ORM.
 
 You will need to install [Composer](http://getcomposer.org/) following the instructions on their site.
 
